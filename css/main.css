@@ -2,7 +2,7 @@
 
 .Wrap{}
 
-.container{ display: flex; width: 1200px; margin: 0 auto; }
+.container { display: flex; width: 1200px; margin: 0 auto; }
 
 /* {header */
 .header { position: absolute; inset: 0 auto auto 50%; transform: translateX(-50%); 
@@ -28,7 +28,7 @@
 .main_visual .main_slide { position: absolute; inset: 50% auto auto 50%; z-index: 999;
   transform: translate(-50%, -50%); width: 1200px; height: 600px; }
 
-.main_visual .main_slide img{ margin: 0 auto; width: 473px; height: 496px;}
+.main_visual .main_slide img { margin: 0 auto; width: 473px; height: 496px;}
 
 .main_visual .main_slogan .top{ position: absolute; inset:35% auto auto 50%; 
   transform: translateX(-50%); width: 1350px; font-size: 125px; font-weight: 900; 
